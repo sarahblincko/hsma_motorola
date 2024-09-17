@@ -16,6 +16,6 @@ def multiply_numbers(num_1, num_2):
     return result
 
 # Division:
-def divide_numbers(num_1,num2):
+def divide_numbers(num_1,num_2):
     result = num_1/num_2
     return result
