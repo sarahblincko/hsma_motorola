@@ -1,0 +1,11 @@
+# Ignore all csv files
+*.csv
+
+# Ignore Results folder
+Results/
+
+#Ignore Plots folder
+Plots/
+
+# Ignore .png files to be super secure plots aren't shared
+*.png
